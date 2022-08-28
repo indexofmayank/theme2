@@ -12,9 +12,10 @@ const Footer = () => {
                   <div className="logo-wrap">
                      <img src={logo} alt="" />
                      <p>
-                        Copyright @2021 LoremIpsum <br />
+                        Copyright @2021 EngineerUncle - Gigaai <br />
                         All rights reserved
                      </p>
+                     <p>Webel Bhavan Block: EP & GP, Sector V, Bidhannagar, Salt Lake, Kolkata: 700 091</p>
                   </div>
                </div>
                <ul className="bottom-nav">
